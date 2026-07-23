@@ -28,7 +28,7 @@ The application provides three primary utilities that simplify common tasks when
 
 ### Setup Helper
 
-[SetupHelperVideo.mp4](SetupHelperVideo.mp4)
+https://github.com/user-attachments/assets/979e3a75-80a0-4880-a585-f71c4003db4d
 
 The Setup Helper automates the initial configuration required by the application. Using image recognition, it locates key interface elements within the EZCad window and records their screen coordinates as points of interest.
 
@@ -36,7 +36,7 @@ Once the setup process has been completed, the configuration is saved and can be
 
 ### Pen Allocation
 
-[PenAllocationVideo.mp4](PenAllocationVideo.mp4)
+https://github.com/user-attachments/assets/ad8afc8c-41cd-4711-b616-6e1ad2f9c344
 
 The Pen Allocation tool simplifies the assignment of existing pen configurations to selected objects within an EZCad project.
 
@@ -44,7 +44,7 @@ Rather than creating new processing parameters, it provides a faster method of a
 
 ### Parameter Changer
 
-[ParameterChangerVideo.mp4](ParameterChangerVideo.mp4)
+https://github.com/user-attachments/assets/823616a0-f1f7-4b2f-afd0-2ce6e55a97be
 
 The Parameter Changer was developed to eliminate one of the most repetitive aspects of preparing laser marking projects. When working with large parameter matrices—often containing 25 or more individual objects—manually updating each processing parameter became both time-consuming and susceptible to human error.
 
